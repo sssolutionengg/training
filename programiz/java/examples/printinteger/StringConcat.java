@@ -4,5 +4,6 @@ public class StringConcat {
         example.concat("World");
 
         System.out.println(example);
+        System.out.println(example);
     }
 }
